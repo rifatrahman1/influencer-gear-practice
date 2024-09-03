@@ -218,3 +218,30 @@ body {
 }
 /* featured product end hare */
 /*---------------main section style end hare---------------- */
+
+/* --------footer start-------- */
+
+footer{
+    margin-top: 100px;
+    background-color: #0b0827;
+}
+footer .footer-influencer {
+    padding: 50px;
+    text-align: center;
+}
+footer .footer-influencer i{
+    font-size: 24px;
+    padding: 20px;
+    color: #FFFFFF;
+}
+.footer-influencer h3{
+    padding: 10px 0;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.footer-influencer p{
+    padding: 5px 0;
+    font-size: 15px;
+    color: #D9DBE1;
+}
+/* --------footer end-------- */
