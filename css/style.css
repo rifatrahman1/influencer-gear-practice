@@ -198,16 +198,22 @@ body {
     max-width: 1300px;
     margin: 0 auto;
     margin-top: 120px;
+    align-items: center;
     display: flex;
 }
+.featured-image{
+    width: 43%;
+}
 .featured-title{
-    align-items: center;
+    width: 70%;
 }
 .featured-title h1{
+    margin-bottom: 20px;
     font-size: 38px;
     color: #0A0826;
 }
 .featured-title p{
+    margin-bottom: 20px;
     color: #6C6C6C;
 }
 /* featured product end hare */
