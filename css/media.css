@@ -35,8 +35,12 @@
         /* -----navigation bar end------- */
 
         /* -----heading banner start---- */
+        .banner{
+            max-width: 75%;
+            background-position: top ;
+        }
         .banner-container{
-            background-image: none;
+            
             flex-direction: column-reverse;
         }
         .banner-image img{
@@ -45,6 +49,12 @@
         .banner-title{
             margin-top: -365px;
             text-align: center;
+        }
+        .content{
+            transform: translateX(20px);
+        }
+        .more{
+            margin-left: 90px;
         }
         /* -----heading banner end---- */
 }
